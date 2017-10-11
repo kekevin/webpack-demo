@@ -13,7 +13,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack-base-demo/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -156,6 +167,16 @@
               <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="vue-cli-webpack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="webpack-base-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -174,6 +195,11 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webpack-base-demo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -200,12 +226,12 @@
       <workItem from="1507689619545" duration="95000" />
       <workItem from="1507689716939" duration="21000" />
       <workItem from="1507690208612" duration="6406000" />
-      <workItem from="1507700079182" duration="891000" />
+      <workItem from="1507700079182" duration="1086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7413000" />
+    <option name="totallyTimeSpent" value="7608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="97" y="52" width="1280" height="709" extended-state="0" />
@@ -365,6 +391,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack-base-demo/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
